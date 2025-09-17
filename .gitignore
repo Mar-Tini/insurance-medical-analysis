@@ -1,0 +1,22 @@
+#  Python cache
+__pycache__/
+
+# Environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data folders
+data/raw/
+data/processed/
+
+# Models and preprocessor
+models/
+preprocessor/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
