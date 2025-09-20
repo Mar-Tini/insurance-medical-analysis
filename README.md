@@ -49,7 +49,7 @@ Analyse exploratoire et prédiction des coûts d’assurance médicale.
 
 ## Résultats
 
-- Le **meilleur modèle** : XGBoost avec R² ≈ 0.92 et MSE ≈ 11 784 586.  
+- Le **meilleur modèle** : XGBoost avec R² ≈ 0.88 et MSE ≈ 11 784 586.  
 - Les prédictions sont proches des valeurs réelles, ce qui montre que le modèle est **fiable et robuste**.  
 - Pipeline sauvegardé pour **réutilisation future ou déploiement**.
 
