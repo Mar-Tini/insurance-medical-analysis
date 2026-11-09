@@ -1,0 +1,24 @@
+
+__pycache__/
+
+
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+outputs/dashboard/
+
+models/
+preprocessor/
+
+.vscode/
+.idea/

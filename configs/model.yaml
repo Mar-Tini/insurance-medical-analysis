@@ -1,0 +1,8 @@
+model: 
+  linear_regression: 
+    name : LinearRegression
+  
+  target: charges
+
+artefacte: 
+  preprocessing: models/preprocessor.pkl
