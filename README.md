@@ -59,12 +59,12 @@ J'ai testé :
 
 Je les compare sur le jeu de test avec **MSE** et **R²**.
 
-### e) Prédire et vérifier
+### d) Prédire et vérifier
 
 - Je prédis les coûts du jeu de test avec le meilleur modèle.
 - Je trace un graphique **valeurs réelles vs valeurs prédites**. Plus les points sont proches de la ligne, meilleur est le modèle.
 
-### f) Vérifier la régression linéaire
+### e) Vérifier la régression linéaire
 
 Pour que la régression linéaire soit fiable, je vérifie quelques règles :
 
